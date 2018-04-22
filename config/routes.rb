@@ -55,4 +55,6 @@ Rails.application.routes.draw do
   #   end
 
   get "hello_world", to: 'static#hello_world'
+  # The application processes the request
+  
 end
