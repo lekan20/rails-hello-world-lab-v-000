@@ -983,3 +983,4 @@ Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bd
 Started GET "/hello_world" for 209.122.210.114 at 2018-04-22 16:59:05 +0000
 Processing by StaticController#hello_world as HTML
   Rendered static/hello_world.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 43ms (Views: 42.0ms | ActiveRecord: 0.0ms)
